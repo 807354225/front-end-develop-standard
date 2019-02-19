@@ -93,7 +93,7 @@ $colorBlack: #000;
 - 'Android'在变量名中大写第一个字母
 - 'iOS'在变量名中小写第一个，大写后两个字母
 - 常量全大写，用下划线连接
-- jquery对象必须以'$'开头命名
+- jquery对象必须以'$'开头命名  
 - 对上下文this的引用只能使用'_this', 'that', 'self'其中一个来命名；
 
 ```javascript
